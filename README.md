@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Development
 - I'm a Frontend Developer | HTML | CSS | JAVASCRIPT | NODE JS | REACT | MERN STACK DEVELOPER
-- 📫 How to reach me ranasameerwaqar@gmail.com
+- 📫 Reach me at >> ranasameerwaqar@gmail.com
 <!---
 RanaSameerWaqar/RanaSameerWaqar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
