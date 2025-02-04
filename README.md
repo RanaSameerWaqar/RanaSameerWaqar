@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://hackernoon.com/images/f2px36fy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranasameerwaqar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+
 
 - 💼 I’m currently working on **Advance Learning Management System (University Final Year Project)**
 
@@ -61,8 +61,3 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranasameerwaqar&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranasameerwaqar&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranasameerwaqar" alt="GitHub Streak" /></p>
