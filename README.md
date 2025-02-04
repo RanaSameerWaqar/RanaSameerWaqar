@@ -1,3 +1,5 @@
+![logo](https://github.com/RanaSameerWaqar/RanaSameerWaqar/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Rana Sameer Waqar</h1>
 <h3 align="center">MERN Stack Developer | Frontend Developer | HTML | CSS | JavaScript | Node.js | React</h3>
 
