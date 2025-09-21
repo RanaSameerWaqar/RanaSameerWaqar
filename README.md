@@ -13,8 +13,6 @@
 
 - 💻 All of my projects are available at [samdevworks.site](http://samdevworks.site)
 
-- 📃 I regularly write articles on [Blogger](https://www.blogger.com/blog/posts/5313107677434367272)
-
 - 💡 Ask me about **MERN Stack Development**
 
 - 📧 Reach me at **ranasameerwaqar@gmail.com**
